@@ -15,7 +15,7 @@
 | Repo | Purpose | npm |
 |------|---------|-----|
 | [openvole](https://github.com/openvole/openvole) | Agent core — loop, registries, CLI, sandbox | [![npm](https://img.shields.io/npm/v/openvole)](https://www.npmjs.com/package/openvole) |
-| [pawhub](https://github.com/openvole/pawhub) | Official paws — 28 plugins for LLM, channels, tools, infra | [![npm](https://img.shields.io/npm/v/@openvole/paw-brain)](https://www.npmjs.com/package/@openvole/paw-brain) |
+| [pawhub](https://github.com/openvole/pawhub) | Official paws — plugins for LLM, channels, tools, infra | [![npm](https://img.shields.io/npm/v/@openvole/paw-brain)](https://www.npmjs.com/package/@openvole/paw-brain) |
 
 ## Quick Start
 
@@ -44,7 +44,7 @@ Core (agent loop) → Paws (plugins) → Skills (behavioral recipes)
 - **Paws** connect to the world — LLMs, Telegram, shell, browser, desktop
 - **Skills** describe behavior — markdown files, no code
 
-## Paws (28)
+## Official Paws
 
 **Brain**: paw-brain (Anthropic, OpenAI, Gemini, xAI, Ollama)
 **Channels**: Telegram, Slack, Discord, WhatsApp, Teams, Voice Call
